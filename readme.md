@@ -1,7 +1,4 @@
-# this is my very first webpage
-welcome to my first project
+# The pilot webpage from Code Institute Module 3
+This is a webpage intend to list different DEV tools and build hrefs to their linked websites
 
-## head line 2
-### head line 3
-#### head line 4
-##### head line 5
+#### 2019 2/21  Use W3C html and css validator to correct 
